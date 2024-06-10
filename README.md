@@ -1,7 +1,7 @@
 # Генератор адресов ERC20
 
 # Автор
-Sergey https://t.me/just_commit
+Sergey https://t.me/s_ilyin
 Наш канал: https://t.me/my_utils
 
 
